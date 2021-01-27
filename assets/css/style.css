@@ -1353,13 +1353,13 @@ header .container-wide .contacts-wrapper .text-wrapper p {
     transform: scale(1);
 }
 .main-page-slider .slider.first {
-    background: url("../img/header-bg2.png") center center no-repeat;
+    background: url("../img/banner01.jpg") center center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
     left: 0;
 }
 .main-page-slider .slider.second {
-    background: url("../img/header-bg2.png") center center no-repeat;
+    background: url("../img/banner02.jpg") center center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
     left: 100%;
